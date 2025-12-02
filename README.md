@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mharoonshuaib
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning web design crash course.
-- 💞️ I’m looking to collaborate on html,css,bootstrap.
+- 💞️ I’m working on html,css,bootstrap,JavaScript,Shopify Liquid.
 - 📫 How to reach me contact: +923181747932
 
 <!---
