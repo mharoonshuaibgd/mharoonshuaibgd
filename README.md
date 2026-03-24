@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mharoonshuaib
 - 👀 I’m interested in programming.
 - 💞️ I’m working on html,css,bootstrap,JavaScript,Shopify Liquid.
-- 📫 How to reach me contact: +923181747932
+- 📫 How to reach me contact: mharoonshuaibgd@gmail.com
 
 <!---
 mharoonshuaibgd/mharoonshuaibgd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
